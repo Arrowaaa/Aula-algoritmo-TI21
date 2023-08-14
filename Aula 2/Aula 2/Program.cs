@@ -36,8 +36,10 @@ namespace Aula_2
             divisao = a / b;
 
             Console.Write("A Divisão dos Valores São: " + divisao);
-          
 
+            resto = a % b;
+
+            Console.Write("O Resto dos Valores São: " +  resto + "\n");
 
 
 

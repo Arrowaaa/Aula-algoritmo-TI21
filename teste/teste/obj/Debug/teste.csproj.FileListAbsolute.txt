@@ -1,0 +1,8 @@
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\teste\teste\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\teste\teste\obj\Debug\teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\teste\teste\bin\Debug\teste.exe.config
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\teste\teste\bin\Debug\teste.exe
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\teste\teste\bin\Debug\teste.pdb
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\teste\teste\obj\Debug\teste.exe
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\teste\teste\obj\Debug\teste.pdb
