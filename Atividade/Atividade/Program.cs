@@ -23,7 +23,7 @@ namespace teste
             else
             {
                 resultado = troco - valor;
-                Console.WriteLine("Seu troco é de R$" + resultado + " Reais.." );
+                Console.WriteLine("Seu troco é de R$ " + resultado + " Reais.." );
                 Console.ReadKey();
             }
         }
