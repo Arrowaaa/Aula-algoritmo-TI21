@@ -1,0 +1,8 @@
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\Atividade new 3\Atividade new 3\bin\Debug\Atividade new 3.exe.config
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\Atividade new 3\Atividade new 3\bin\Debug\Atividade new 3.exe
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\Atividade new 3\Atividade new 3\bin\Debug\Atividade new 3.pdb
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\Atividade new 3\Atividade new 3\obj\Debug\Atividade new 3.csproj.AssemblyReference.cache
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\Atividade new 3\Atividade new 3\obj\Debug\Atividade new 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\Atividade new 3\Atividade new 3\obj\Debug\Atividade new 3.csproj.CoreCompileInputs.cache
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\Atividade new 3\Atividade new 3\obj\Debug\Atividade new 3.exe
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\Atividade new 3\Atividade new 3\obj\Debug\Atividade new 3.pdb

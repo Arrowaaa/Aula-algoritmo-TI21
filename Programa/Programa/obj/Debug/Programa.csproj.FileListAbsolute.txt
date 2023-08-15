@@ -1,0 +1,8 @@
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\Programa\Programa\obj\Debug\Programa.csproj.AssemblyReference.cache
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\Programa\Programa\obj\Debug\Programa.csproj.SuggestedBindingRedirects.cache
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\Programa\Programa\obj\Debug\Programa.csproj.CoreCompileInputs.cache
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\Programa\Programa\bin\Debug\Programa.exe.config
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\Programa\Programa\bin\Debug\Programa.exe
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\Programa\Programa\bin\Debug\Programa.pdb
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\Programa\Programa\obj\Debug\Programa.exe
+C:\Users\edilson.csilva10\source\repos\Aula-algoritmo-TI21\Programa\Programa\obj\Debug\Programa.pdb
