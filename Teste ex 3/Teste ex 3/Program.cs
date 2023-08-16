@@ -78,7 +78,7 @@ namespace OrdenarNumerosSimples
             Console.WriteLine("Os números em ordem crescente são: " + menor + "-" + meio + "-" + maior);
             Console.ReadKey();
         }
-
-
+        
+        
     }
 }
