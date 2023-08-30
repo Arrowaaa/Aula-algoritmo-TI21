@@ -6,66 +6,51 @@ namespace Programa
     {
         static void Main(string[] args)
         {
-            float pagamento, valor, troco;
+
+            string a, b, c;
             int menu;
 
+            Console.WriteLine("Welcome Sr.  ");
             Console.WriteLine("Menu: ");
-            Console.WriteLine("1 - Média de três Números: ");
-            Console.WriteLine("2 - Troco de Compra: ");
-            Console.WriteLine("3 - Conversão de Temperatura: ");
+            Console.WriteLine("1 - Cadastrar novo Produto: ");
+            Console.WriteLine("2 - Realizar venda de produto: ");
+            Console.WriteLine("3 - Gerar relatório do produto: ");
             Console.Write("Escolha a Opção: ");
             menu = int.Parse(Console.ReadLine());
 
             if (menu == 1)
             {
-                float a, b, c;
-                float soma, media;
-
-                Console.WriteLine("Digite o 1° Número: ");
+                Console.WriteLine("Você escolheu CADASTRAR um produto? ");
+                Console.WriteLine("Qual é o Produto que deseja cadastrar? ");
                 a = float.Parse(Console.ReadLine());
 
-                Console.WriteLine("Digite o 2° Número: ");
+                Console.WriteLine("Qual a marca do produto ? ");
                 b = float.Parse(Console.ReadLine());
 
-                Console.WriteLine("Digite o 3° Número: ");
+                Console.WriteLine("Qual é o preço do produtor ? ");
                 c = float.Parse(Console.ReadLine());
 
-                soma = a + b + c;
-                media = soma / 3;
 
-                Console.WriteLine("O Valor da Média é: " + media);
+                Console.WriteLine("O produto cadastrado foi: " + a + "\n" + b + "\n" + c);
             }
             else if (menu == 2)
             {
-                Console.WriteLine("Digite o Valor Total da Compra: ");
-                valor = float.Parse(Console.ReadLine());
+                Console.WriteLine("Você escolheu VENDER/COMPRAR um produto ? ");
+                float valor = float.Parse(Console.ReadLine());
 
-                Console.WriteLine("Digite o valor pago pelo CLIENTE: ");
-                pagamento = float.Parse(Console.ReadLine());
-
-                if (valor > pagamento)
-                {
-                    Console.WriteLine("O Valor do pagamento é insuficiente para concluir a compra.");
-                }
-                else
-                {
-                    troco = pagamento - valor;
-                    Console.WriteLine("O Valor do seu troco é R$: " + troco);
-                }
             }
             else if (menu == 3)
             {
-                float celsius, fahrenheit;
-                Console.WriteLine("Digite a temperatura em Celsius: ");
-                celsius = float.Parse(Console.ReadLine());
+                Console.WriteLine("Você Escoheu gerar um Relatório do Produto? ");
+                float valor = float.Parse(Console.ReadLine());
 
-                fahrenheit = celsius * 9 / 5 + 32;
-                Console.WriteLine("A temperatura em Fahrenheit é: " + fahrenheit);
             }
             else
-            {
                 Console.WriteLine("Opção inválida. Escolha uma opção válida do menu.");
-            }
         }
     }
 }
+        
+
+        
+ 
